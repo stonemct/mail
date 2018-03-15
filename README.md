@@ -50,3 +50,7 @@ host: {{mail_host}}:587
 user: user@{{organization}}
 encryption: STARTTLS
 ```
+
+
+
+ansible-galaxy install -r requirements.yml
